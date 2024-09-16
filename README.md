@@ -47,7 +47,7 @@ envie um json desta maneira:
 | `custo_producao` | `float` | **Obrigatório**. custo para confecção do produto |
 
 #### Retorno:
-
+exemplo:
 ```json
 {
   "preco_previsto": 51.0
